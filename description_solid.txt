@@ -113,3 +113,5 @@ O Factory Pattern (ou Padrão de Fábrica) é um padrão de design
 criacional usado para criar objetos sem expor a lógica de criação ao 
 cliente e referenciar a nova classe criada usando uma interface comum. 
 Ele é particularmente útil quando a criação do objeto é complexa ou depende de parâmetros dinâmicos.
+
+resposta
