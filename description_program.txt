@@ -77,3 +77,4 @@ secure - ele e incripitado pelo https
 samiSite - so pode se acesso pela mesma app
 httpOnly - so pode ser acesso pelo back end so pode se acessado pela req ou repositoria
 signed - não e assinado 
+description
